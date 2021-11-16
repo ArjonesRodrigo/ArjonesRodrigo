@@ -1,7 +1,6 @@
 Hi there!
 I am Rodri, presently studying at Universidade Virtual do Estado de São Paulo - UNIVESP, São Paulo(SP), Brazil.
-- 👯 I’m looking to collaborate on a project at its graduation course.
-- 🤔 I’m looking for help with FPDF.
+
 - 📫 How to reach me: dia36@hotmail.es
 - 😄 Pronouns: He
 - ⚡ Fun fact: is that it is not funny at all.
