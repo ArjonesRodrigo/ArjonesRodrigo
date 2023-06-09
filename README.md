@@ -1,7 +1,7 @@
 Hi there!
 I am Rodri, presently studying at Universidade Virtual do Estado de São Paulo - UNIVESP, São Paulo(SP), Brazil.
 
-- 📫 How to reach me: dia36@hotmail.es
+- 📫 How to reach me: arjones_rodrigo@outlook.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: is that it is not funny at all.
 
