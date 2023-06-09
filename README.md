@@ -31,4 +31,4 @@ I have a Bachelor's degree in Information Technology from the Virtual University
   <div>
    <a href = "mailto:arjones_rodrigo@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div>
- 
+ ![01_cyberops_associate_150](https://github.com/ArjonesRodrigo/ArjonesRodrigo/assets/92450062/491f192c-96a2-4379-9b48-3937e4b94a2c)
