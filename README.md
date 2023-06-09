@@ -1,5 +1,5 @@
-##Hi there!
-##I have a Bachelor's degree in Information Technology from the Virtual University of the State of São Paulo - UNIVESP and I'm also a CyberOps Associate by CISCO Systems, Inc. 
+Hi there!
+I have a Bachelor's degree in Information Technology from the Virtual University of the State of São Paulo - UNIVESP and I'm also a CyberOps Associate by CISCO Systems, Inc. 
 - 📫 How to reach me: arjones_rodrigo@outlook.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: is that it is not funny at all.
