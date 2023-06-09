@@ -23,12 +23,12 @@ I have a Bachelor's degree in Information Technology from the Virtual University
   <img align="center" alt="Rodri-Arduino" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="Rodri-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img align="center" alt="Rodri-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
-  <img align="right" a data-flickr-embed="true" href="https://www.flickr.com/photos/193648368@N02/51623803394/in/dateposted/"><img src="https://live.staticflickr.com/65535/51623803394_203f469f70_t.jpg" width="100" height="74" alt="hands_on_gif"></a>
+  
 </div>
   
   ##
   
   <div>
-   <a href = "mailto:dia36@hotmail.es"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+   <a href = "mailto:arjones_rodrigo@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div>
  
