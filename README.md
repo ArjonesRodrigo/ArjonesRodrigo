@@ -1,6 +1,5 @@
 Hi there!
-I am Rodri, presently studying at Universidade Virtual do Estado de São Paulo - UNIVESP, São Paulo(SP), Brazil.
-
+I have a Bachelor's degree in Information Technology from the Virtual University of the State of São Paulo - UNIVESP and I'm also a CyberOps Associate by CISCO Systems, Inc. We all always have something to learn, something to create, something to show, something to sell...
 - 📫 How to reach me: arjones_rodrigo@outlook.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: is that it is not funny at all.
