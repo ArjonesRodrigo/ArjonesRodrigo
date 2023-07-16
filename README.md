@@ -6,8 +6,9 @@ I have a Bachelor's degree in Information Technology from the Virtual University
 
 <div>
   <a href="https://beacons.ai/ArjonesRodrigo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArjonesRodrigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjonesRodrigo&layout=compact&langs_count=16&theme=dark"/>
+   <p align="center"> <a href= "https://github.com/ArjonesRodrigo/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ArjonesRodrigo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjonesRodrigo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+ 
 </div>
  
   <div style="display: inline_block"><br>
@@ -31,4 +32,3 @@ I have a Bachelor's degree in Information Technology from the Virtual University
   <div>
    <a href = "mailto:arjones_rodrigo@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   </div>
- <p align="center"> <a href= "https://github.com/ArjonesRodrigo/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ArjonesRodrigo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjonesRodrigo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
